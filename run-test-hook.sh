@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin
 #
 # Pre-commit hook for running checkstyle on changed Java sources
 #
