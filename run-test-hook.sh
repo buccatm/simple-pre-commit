@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/perl
 #
 # Pre-commit hook for running checkstyle on changed Java sources
 #
